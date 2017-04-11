@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/waffleio/haproxy-newrelic-plugin/status "Docker Repository on Quay")](https://quay.io/repository/waffleio/haproxy-newrelic-plugin)
+
 # haproxy-newrelic-plugin
 Docker container of the haproxy-newrelic plugin
 
