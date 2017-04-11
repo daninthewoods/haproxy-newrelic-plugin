@@ -2,6 +2,7 @@ FROM alpine
 
 RUN set -x \
   && apk add --update-cache --no-cache \
+    ca-certificates \
     gcc \
     make \
     musl-dev \
