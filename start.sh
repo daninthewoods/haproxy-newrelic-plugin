@@ -1,6 +1,6 @@
 #!/bin/sh
 
-exec="/usr/local/bin/newrelic_haproxy_agent"
+exec="/usr/bin/newrelic_haproxy_agent"
 prog=$(basename $exec)
 config="/etc/newrelic_haproxy_agent.yml"
 
